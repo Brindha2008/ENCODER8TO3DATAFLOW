@@ -122,5 +122,29 @@ Thus, Encoder 8 To 3 in Dataflow Modelling using verilog and validating their fu
 .
 
 
+.
+.
+.
+.
+.
+.
+.
+
+.
+..
+.
+.
+.
+.
+..
+
+.
+..
+.
+.
+..
+
+.
+..
 
 
